@@ -42,7 +42,7 @@ function Projects() {
             <ProjectCard
               imgPath={twitterIcon}
               isBlog={false}
-              title="Twitter Icon"
+              title="Tweeter"
               description="A simple web app built with Python (Streamlit) that allows users to log in using Firebase Authentication and share their thoughts publicly. Other users can view shared posts in real time, creating an open and minimal platform for expression and interaction."
               ghLink="https://github.com/varun-varneker/tweet-website-Python-"
             />
