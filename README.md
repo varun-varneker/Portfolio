@@ -1,78 +1,46 @@
-=======
-<h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a>
-</h2>
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
+# 🌐 Personal Portfolio — Varun Varneker
 
-<br/>
+## 🧠 About the Project
+This is my personal portfolio website designed to showcase my **skills, projects and achievements** in the field of **Artificial Intelligence and Data Science**.  
+The portfolio serves as both a **digital resume** and a **personal brand website**, giving visitors a clear overview of who I am, what I do, and what I’ve built.
 
-<center>
+---
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge)
+## ⚙️ Tech Stack
+- HTML  
+- CSS  
+- JavaScript  
 
-</center>
+---
 
-<h3 align="center">
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
-</h3>
+## 🚀 Features
+- Fully responsive design optimized for mobile, tablet, and desktop.  
+- Smooth scrolling and section transitions.  
+- Dedicated sections for About, Skills, Projects, and Contact.  
+- Downloadable resume link.  
+- Clean, fast, and lightweight code structure.
 
-## TL;DR
+---
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
+## 💼 Sections
+- **Home** — Brief introduction and tagline.  
+- **About Me** — Overview of my background, education, and experience.  
+- **Skills** — Technical proficiencies and tools I work with.  
+- **Projects** — Highlights of my key projects with links to GitHub.  
+- **Contact** — Ways to connect with me professionally.
 
-## Built With
+---
 
-My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+## 🧑‍💻 Author
+**Varun Varneker**  
+B.Tech in Artificial Intelligence & Data Science (2022–2026)  
+Agni College of Technology  
 
-This project was built using these technologies.
+📧 Email: [varunvarneker06@gmail.com]  
+🐙 GitHub: [github.com/varun-varneker](https://github.com/varun-varneker)  
+💼 LinkedIn: [linkedin.com/in/varun-varneker](https://linkedin.com/in/varun0609)
 
-- React.js
-- Node.js
-- Express.js
-- CSS3
-- VsCode
-- Vercel
+---
 
-## Features
-
-**📖 Multi-Page Layout**
-
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
-
-**📱 Fully Responsive**
-
-## Getting Started
-
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
-
-## 🛠 Installation and Setup Instructions
-
-1. Installation: `npm install`
-
-2. In the project directory, you can run: `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
-
-## Usage Instructions
-
-Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
-
-### Show your support
-
-Give a ⭐ if you like this website!
-
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
->>>>>>> 3b30ab4 (Initial commit - portfolio)
+## ⭐ Support
+If you found this project interesting or useful, feel free to give it a ⭐ on GitHub.
